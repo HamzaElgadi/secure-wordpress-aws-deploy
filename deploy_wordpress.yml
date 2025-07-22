@@ -1,5 +1,5 @@
 
-- name: Deploy WordPress and MySQL using Docker Compose
+- name: Deploy website WordPress and MySQL using Docker Compose
   hosts: webserver
   become: true
 
